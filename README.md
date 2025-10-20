@@ -1,4 +1,7 @@
-<h1 align="center">SkyneticLabs ▣ Validator Infrastructure</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:FF7A00,30:FF9900,70:FF0099,100:FF7A00&height=220&section=header&text=SkyneticLabs%20%E2%96%A3%20Validator%20Infrastructure&fontSize=44&fontAlignY=50&fontColor=000000" />
+</p>
+
 
 <p align="center">
   <i>Engineering stability. Powering decentralization.</i>
