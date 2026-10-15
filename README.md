@@ -53,15 +53,17 @@ Free, read-only analytics we build and maintain for the ecosystems we validate.
 
 ### 🌐 Networks
 <p>
-  <img src="https://img.shields.io/badge/Celestia-7B2BF9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Monad-836EF9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Solana-14F195?style=flat-square&logoColor=black" />
-  <img src="https://img.shields.io/badge/Lava-E5352C?style=flat-square" />
-  <img src="https://img.shields.io/badge/KYVE-1A1A1A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Gitopia-D946EF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Arkeo-2DD4BF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Aura-F59E0B?style=flat-square" />
+  <a href="https://celestia-dashboard.krews.xyz/celestia-mocha/validators/celestiavaloper1uqnlzylk0uld4azf2n0awclxxtllmr7d0xrj3m"><img src="https://img.shields.io/badge/Celestia-7B2BF9?style=flat-square" /></a>
+  <a href="https://testnet.monad-watchtower.xyz/validator/0x034799aeb98c40f05cfb068aa5ed17e72646932dce1c567aef43ee9873265a204e"><img src="https://img.shields.io/badge/Monad-836EF9?style=flat-square" /></a>
+  <a href="https://solscan.io/account/9jJ3YRBL611e7xjXFMBExuninmTWjDnv3FXNotHmPnK2"><img src="https://img.shields.io/badge/Solana-14F195?style=flat-square&logoColor=black" /></a>
+  <a href="https://lavacenter.xyz/lava/staking/lava@valoper1qfqv8p0la87pfjlhzf8tgdr0cv0x6xv4tweetd"><img src="https://img.shields.io/badge/Lava-E5352C?style=flat-square" /></a>
+  <a href="https://explorer.kyve.network/kyve/staking/kyvevaloper156nsewj7e9ekyqe359fkfxvphuvl47mt5j5a7j"><img src="https://img.shields.io/badge/KYVE-1A1A1A?style=flat-square" /></a>
+  <a href="https://explorer.nodestake.org/gitopia/staking/gitopiavaloper1wywnym4hduwp5nu9pfelhda79ugk0t09fc9ny0"><img src="https://img.shields.io/badge/Gitopia-D946EF?style=flat-square" /></a>
+  <a href="https://explorer.nodestake.org/arkeo/staking/arkeovaloper1wnx2p0phrh780p2k4xaqpqp0hxa62usjhq6xt5"><img src="https://img.shields.io/badge/Arkeo-2DD4BF?style=flat-square" /></a>
+  <a href="https://explorer.nodestake.org/aura/staking/auravaloper18q3rc7y0q00u26tm8ejua5c4kh93axrk4pzp3k"><img src="https://img.shields.io/badge/Aura-F59E0B?style=flat-square" /></a>
 </p>
+
+<sub>👆 Click a network to open our validator in its explorer.</sub>
 
 📦 Endpoints, snapshots, monitoring tools and docs for node operators: **[SkyneticLabs-Validator-Portal](https://github.com/Skyneticlabs/SkyneticLabs-Validator-Portal)**
 
