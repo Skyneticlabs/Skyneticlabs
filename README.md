@@ -115,7 +115,7 @@ Full index: [`skyneticlabs.com/celestia/api/v1/`](https://skyneticlabs.com/celes
 
 <sub>👆 Click a network to open our validator in its explorer. Mainnet: Solana, Starknet, Lava, KYVE, Gitopia, Arkeo, Aura · Testnet: Celestia (Mocha, our home network), Monad.</sub>
 
-📦 Endpoints, snapshots, monitoring tools and docs for node operators: **[SkyneticLabs-Validator-Portal](https://github.com/Skyneticlabs/SkyneticLabs-Validator-Portal)**
+📦 Validator details, dashboards, Celestia API and security checklists for every network: **[SkyneticLabs-Validator-Portal](https://github.com/Skyneticlabs/SkyneticLabs-Validator-Portal)**
 
 ---
 
@@ -142,5 +142,6 @@ so Web3 networks can scale without compromise.
   <a href="https://skyneticlabs.gitbook.io/docs">Docs</a> ·
   <a href="https://x.com/SkyneticTeam">X / Twitter</a>
 </p>
+
 
 
